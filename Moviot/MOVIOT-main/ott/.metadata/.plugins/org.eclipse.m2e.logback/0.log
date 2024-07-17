@@ -1,0 +1,892 @@
+2024-03-02 11:17:53,930 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-02 11:19:10,382 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:ott:0.0.1-SNAPSHOT @ C:\Users\User\Desktop\ott\OTT\pom.xml.
+2024-03-02 11:19:12,102 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OTT/src/main/java
+2024-03-02 11:19:12,103 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OTT/src/main/resources
+2024-03-02 11:19:12,112 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OTT/src/main/resources
+2024-03-02 11:19:12,120 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OTT/src/test/java
+2024-03-02 11:19:12,121 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OTT/src/test/resources
+2024-03-02 11:19:16,421 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2024-03-02 11:19:16,429 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-03-02 11:19:17,492 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:ott:0.0.1-SNAPSHOT @ C:\Users\User\Desktop\ott\OTT\pom.xml.
+2024-03-02 11:19:18,816 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OTT/src/main/java
+2024-03-02 11:19:18,817 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OTT/src/main/resources
+2024-03-02 11:19:18,818 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OTT/src/main/resources
+2024-03-02 11:19:18,820 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OTT/src/test/java
+2024-03-02 11:19:18,820 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OTT/src/test/resources
+2024-03-02 11:19:20,515 [Worker-6: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for OTT
+2024-03-02 11:19:20,551 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 1.00 sec 
+2024-03-02 11:19:20,672 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-03-02 11:19:21,347 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:ott:0.0.1-SNAPSHOT @ C:\Users\User\Desktop\ott\OTT\pom.xml.
+2024-03-02 11:19:22,415 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OTT/src/main/java
+2024-03-02 11:19:22,415 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OTT/src/main/resources
+2024-03-02 11:19:22,416 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OTT/src/main/resources
+2024-03-02 11:19:22,417 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OTT/src/test/java
+2024-03-02 11:19:22,418 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OTT/src/test/resources
+2024-03-02 11:19:23,334 [Worker-10: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for OTT
+2024-03-02 11:19:23,361 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-03-02 11:19:24,209 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-02 11:19:24,245 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:19:24,254 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 11:19:24,255 [Worker-12: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OTT
+2024-03-02 11:19:24,256 [Worker-12: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OTT
+2024-03-02 11:22:00,618 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:22:00,621 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:22:00,645 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 11:22:24,864 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:22:24,867 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:22:24,878 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 11:24:21,895 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:24:21,898 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:24:21,904 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 11:24:59,291 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:24:59,295 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:24:59,307 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 11:27:46,644 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:27:46,646 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:27:46,651 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 11:29:59,894 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:OTT:0.0.1-SNAPSHOT @ C:\Users\User\Desktop\ott\OTT\pom.xml.
+2024-03-02 11:30:00,502 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:30:00,503 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:30:00,509 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 11:30:00,509 [Worker-15: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OTT
+2024-03-02 11:30:00,509 [Worker-15: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OTT
+2024-03-02 11:30:03,378 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:30:03,380 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:30:03,388 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 11:30:06,580 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-02 11:30:06,598 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:30:06,601 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 11:30:20,589 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-02 11:30:20,601 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:30:20,606 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 11:30:23,389 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-02 11:30:23,413 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:30:23,419 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 11:30:25,888 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-02 11:30:25,921 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:30:25,927 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 11:30:28,268 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-02 11:30:28,298 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:30:28,301 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 11:34:10,318 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-02 11:37:39,226 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-02 11:37:39,255 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:37:39,267 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 11:38:52,593 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-02 11:38:52,611 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:38:52,620 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 11:39:33,427 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-02 11:39:33,443 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:39:33,453 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 11:42:55,102 [Worker-14: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-02 11:42:55,114 [Worker-14: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:42:55,121 [Worker-14: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 11:46:52,376 [Worker-14: Launching OTT - OttApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.org:OTT:0.0.1-SNAPSHOT @ C:\Users\User\Desktop\ott\OTT\pom.xml.
+2024-03-02 11:46:52,936 [Worker-14: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-02 11:46:52,949 [Worker-14: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:46:52,953 [Worker-14: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 11:46:52,954 [Worker-14: Launching OTT - OttApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OTT
+2024-03-02 11:46:52,954 [Worker-14: Launching OTT - OttApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OTT
+2024-03-02 11:50:36,107 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:50:36,109 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:50:36,118 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 11:52:16,686 [Worker-18: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-02 11:52:16,700 [Worker-18: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 11:52:16,708 [Worker-18: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:04:53,565 [Worker-19: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:04:53,568 [Worker-19: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:04:53,576 [Worker-19: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:10:21,740 [Worker-26: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:10:21,741 [Worker-26: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:10:21,747 [Worker-26: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:11:30,706 [Worker-26: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:11:30,710 [Worker-26: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:11:30,715 [Worker-26: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:12:25,342 [Worker-28: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:12:25,346 [Worker-28: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:12:25,352 [Worker-28: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:13:22,186 [Worker-30: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:13:22,188 [Worker-30: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:13:22,197 [Worker-30: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:20:26,002 [Worker-38: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:20:26,004 [Worker-38: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:20:26,009 [Worker-38: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:26:34,585 [Worker-26: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:26:34,586 [Worker-26: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:26:34,591 [Worker-26: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:28:07,198 [Worker-31: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:28:07,201 [Worker-31: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:28:07,205 [Worker-31: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:28:57,588 [Worker-42: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:28:57,590 [Worker-42: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:28:57,598 [Worker-42: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:29:34,068 [Worker-41: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:29:34,071 [Worker-41: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:29:34,076 [Worker-41: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:32:52,476 [Worker-45: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:32:52,478 [Worker-45: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:32:52,482 [Worker-45: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:35:21,370 [Worker-43: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:35:21,372 [Worker-43: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:35:21,380 [Worker-43: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:37:15,482 [Worker-49: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:37:15,485 [Worker-49: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:37:15,493 [Worker-49: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:37:56,743 [Worker-50: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:37:56,745 [Worker-50: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:37:56,750 [Worker-50: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:39:05,410 [Worker-48: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:39:05,412 [Worker-48: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:39:05,417 [Worker-48: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:40:05,727 [Worker-31: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:40:05,729 [Worker-31: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:40:05,734 [Worker-31: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:41:22,285 [Worker-50: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:41:22,287 [Worker-50: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:41:22,290 [Worker-50: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:41:47,869 [Worker-47: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:41:47,870 [Worker-47: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:41:47,875 [Worker-47: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:42:52,258 [Worker-45: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:42:52,261 [Worker-45: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:42:52,264 [Worker-45: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:43:50,632 [Worker-31: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:43:50,635 [Worker-31: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:43:50,639 [Worker-31: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:45:05,490 [Worker-51: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:45:05,492 [Worker-51: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:45:05,497 [Worker-51: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:45:27,325 [Worker-47: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:45:27,327 [Worker-47: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:45:27,330 [Worker-47: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:47:14,985 [Worker-53: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:47:14,987 [Worker-53: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:47:14,991 [Worker-53: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:49:31,877 [Worker-55: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:49:31,880 [Worker-55: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:49:31,883 [Worker-55: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:54:32,880 [Worker-57: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:54:32,882 [Worker-57: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:54:32,894 [Worker-57: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:55:42,847 [Worker-61: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:55:42,853 [Worker-61: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:55:42,860 [Worker-61: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:58:33,442 [Worker-64: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:58:33,444 [Worker-64: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:58:33,451 [Worker-64: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 12:59:34,790 [Worker-62: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:59:34,792 [Worker-62: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 12:59:34,799 [Worker-62: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 13:00:06,185 [Worker-59: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:00:06,187 [Worker-59: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:00:06,192 [Worker-59: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 13:01:13,706 [Worker-65: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:01:13,708 [Worker-65: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:01:13,714 [Worker-65: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 13:02:08,050 [Worker-65: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:02:08,054 [Worker-65: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:02:08,058 [Worker-65: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 13:03:00,626 [Worker-63: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:03:00,628 [Worker-63: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:03:00,631 [Worker-63: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 13:04:05,141 [Worker-59: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:04:05,143 [Worker-59: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:04:05,148 [Worker-59: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 13:07:12,448 [Worker-66: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:07:12,449 [Worker-66: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:07:12,455 [Worker-66: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 13:09:39,475 [Worker-67: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:09:39,477 [Worker-67: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:09:39,481 [Worker-67: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 13:13:01,301 [Worker-67: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:13:01,303 [Worker-67: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:13:01,306 [Worker-67: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 13:14:38,552 [Worker-74: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:14:38,554 [Worker-74: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:14:38,557 [Worker-74: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 13:15:47,639 [Worker-67: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:15:47,640 [Worker-67: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:15:47,646 [Worker-67: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 13:16:32,085 [Worker-64: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:16:32,087 [Worker-64: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 13:16:32,090 [Worker-64: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 14:07:50,141 [Worker-83: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 14:07:50,142 [Worker-83: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 14:07:50,145 [Worker-83: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 14:08:35,889 [Worker-83: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 14:08:35,892 [Worker-83: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 14:08:35,897 [Worker-83: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 14:11:45,200 [Worker-87: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 14:11:45,201 [Worker-87: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 14:11:45,206 [Worker-87: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 14:15:15,028 [Worker-88: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 14:15:15,029 [Worker-88: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 14:15:15,032 [Worker-88: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 14:15:44,757 [Worker-88: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 14:15:44,758 [Worker-88: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 14:15:44,762 [Worker-88: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 14:17:04,634 [Worker-94: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 14:17:04,636 [Worker-94: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 14:17:04,639 [Worker-94: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 14:17:43,394 [Worker-92: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 14:17:43,395 [Worker-92: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 14:17:43,397 [Worker-92: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 14:18:44,306 [Worker-96: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 14:18:44,307 [Worker-96: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 14:18:44,313 [Worker-96: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 14:19:51,579 [Worker-92: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 14:19:51,581 [Worker-92: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 14:19:51,584 [Worker-92: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 14:23:20,986 [Worker-100: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 14:23:20,987 [Worker-100: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 14:23:20,990 [Worker-100: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 15:02:44,622 [Worker-103: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:02:44,623 [Worker-103: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:02:44,626 [Worker-103: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 15:06:04,268 [Worker-101: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:06:04,270 [Worker-101: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:06:04,273 [Worker-101: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 15:16:30,136 [Worker-112: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:16:30,138 [Worker-112: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:16:30,141 [Worker-112: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 15:28:14,072 [Worker-105: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:28:14,078 [Worker-105: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:28:14,082 [Worker-105: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 15:36:36,106 [Worker-113: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:36:36,107 [Worker-113: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:36:36,112 [Worker-113: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 15:39:12,780 [Worker-119: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:39:12,783 [Worker-119: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:39:12,790 [Worker-119: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 15:45:24,815 [Worker-124: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:45:24,817 [Worker-124: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:45:24,820 [Worker-124: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 15:47:21,123 [Worker-122: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:47:21,125 [Worker-122: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:47:21,135 [Worker-122: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 15:49:15,750 [Worker-131: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:49:15,754 [Worker-131: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:49:15,759 [Worker-131: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 15:50:05,938 [Worker-130: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:50:05,941 [Worker-130: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:50:05,956 [Worker-130: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 15:53:58,069 [Worker-134: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:53:58,071 [Worker-134: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:53:58,077 [Worker-134: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 15:55:18,281 [Worker-134: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:55:18,283 [Worker-134: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:55:18,288 [Worker-134: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 15:58:03,540 [Worker-132: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:58:03,542 [Worker-132: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:58:03,545 [Worker-132: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 15:58:50,086 [Worker-140: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:58:50,088 [Worker-140: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:58:50,093 [Worker-140: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 15:59:38,585 [Worker-141: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:59:38,587 [Worker-141: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 15:59:38,591 [Worker-141: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 16:03:51,100 [Worker-141: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:03:51,101 [Worker-141: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:03:51,109 [Worker-141: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 16:05:29,857 [Worker-132: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:05:29,858 [Worker-132: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:05:29,861 [Worker-132: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 16:05:59,399 [Worker-139: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:05:59,401 [Worker-139: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:05:59,407 [Worker-139: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 16:07:46,273 [Worker-132: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:07:46,274 [Worker-132: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:07:46,280 [Worker-132: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 16:10:13,040 [Worker-141: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:10:13,041 [Worker-141: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:10:13,044 [Worker-141: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 16:13:51,197 [Worker-137: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:13:51,200 [Worker-137: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:13:51,206 [Worker-137: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 16:15:15,130 [Worker-140: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:15:15,131 [Worker-140: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:15:15,136 [Worker-140: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 16:16:34,863 [Worker-137: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:16:34,865 [Worker-137: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:16:34,868 [Worker-137: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 16:17:41,610 [Worker-137: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:17:41,611 [Worker-137: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:17:41,615 [Worker-137: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 16:19:18,431 [Worker-139: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:19:18,432 [Worker-139: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:19:18,437 [Worker-139: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 16:20:37,569 [Worker-142: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:20:37,571 [Worker-142: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:20:37,578 [Worker-142: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 16:21:17,134 [Worker-139: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:21:17,136 [Worker-139: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:21:17,139 [Worker-139: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 16:21:39,797 [Worker-134: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:21:39,798 [Worker-134: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 16:21:39,802 [Worker-134: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 18:15:11,745 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-02 18:18:07,527 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-02 18:18:07,564 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 18:18:07,575 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 19:24:05,495 [Worker-30: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-02 19:24:05,594 [Worker-30: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:24:05,598 [Worker-30: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 19:29:05,181 [Worker-9: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:29:05,186 [Worker-9: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:29:05,199 [Worker-9: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 19:33:12,204 [Worker-38: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:33:12,221 [Worker-38: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:33:12,249 [Worker-38: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 19:37:32,580 [Worker-33: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:37:32,582 [Worker-33: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:37:32,586 [Worker-33: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 19:38:40,521 [Worker-39: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:38:40,523 [Worker-39: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:38:40,528 [Worker-39: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 19:41:48,347 [Worker-42: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:41:48,349 [Worker-42: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:41:48,354 [Worker-42: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 19:43:57,733 [Worker-33: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:43:57,735 [Worker-33: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:43:57,738 [Worker-33: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 19:46:21,305 [Worker-33: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:46:21,306 [Worker-33: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:46:21,311 [Worker-33: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 19:48:18,839 [Worker-50: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:48:18,840 [Worker-50: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:48:18,845 [Worker-50: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 19:49:35,400 [Worker-53: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:49:35,401 [Worker-53: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:49:35,404 [Worker-53: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 19:51:52,501 [Worker-56: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:51:52,503 [Worker-56: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:51:52,506 [Worker-56: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 19:53:14,280 [Worker-59: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:53:14,282 [Worker-59: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:53:14,286 [Worker-59: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 19:53:51,817 [Worker-59: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:53:51,818 [Worker-59: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:53:51,822 [Worker-59: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 19:55:03,023 [Worker-50: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:55:03,024 [Worker-50: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:55:03,028 [Worker-50: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 19:55:33,811 [Worker-45: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:55:33,812 [Worker-45: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:55:33,823 [Worker-45: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 19:56:57,926 [Worker-61: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:56:57,928 [Worker-61: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:56:57,935 [Worker-61: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 19:58:04,441 [Worker-60: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:58:04,442 [Worker-60: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 19:58:04,447 [Worker-60: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 20:00:01,365 [Worker-50: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 20:00:01,367 [Worker-50: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 20:00:01,373 [Worker-50: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 20:01:40,814 [Worker-68: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 20:01:40,816 [Worker-68: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 20:01:40,818 [Worker-68: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 20:02:15,819 [Worker-67: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 20:02:15,820 [Worker-67: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 20:02:15,823 [Worker-67: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 20:03:30,521 [Worker-63: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 20:03:30,523 [Worker-63: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 20:03:30,529 [Worker-63: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 20:05:13,820 [Worker-70: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 20:05:13,822 [Worker-70: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 20:05:13,826 [Worker-70: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 20:07:08,770 [Worker-63: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 20:07:08,771 [Worker-63: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 20:07:08,774 [Worker-63: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 20:08:41,351 [Worker-73: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 20:08:41,353 [Worker-73: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 20:08:41,357 [Worker-73: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-02 20:09:23,295 [Worker-75: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 20:09:23,297 [Worker-75: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-02 20:09:23,302 [Worker-75: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 09:55:48,133 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-03 10:55:55,284 [Worker-14: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 10:55:55,323 [Worker-14: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 10:55:55,332 [Worker-14: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 10:59:18,164 [Worker-2: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 10:59:18,180 [Worker-2: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 10:59:18,186 [Worker-2: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 11:18:01,691 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:18:01,693 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:18:01,699 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 11:19:47,344 [Worker-20: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 11:19:47,355 [Worker-20: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:19:47,361 [Worker-20: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 11:20:18,532 [Worker-19: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:20:18,536 [Worker-19: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:20:18,540 [Worker-19: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 11:23:44,716 [Worker-29: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:23:44,719 [Worker-29: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:23:44,725 [Worker-29: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 11:26:12,968 [Worker-34: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:26:12,971 [Worker-34: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:26:12,978 [Worker-34: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 11:27:37,886 [Worker-20: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:27:37,888 [Worker-20: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:27:37,895 [Worker-20: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 11:33:54,829 [Worker-39: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 11:33:54,841 [Worker-39: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:33:54,849 [Worker-39: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 11:34:33,573 [Worker-47: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 11:34:33,582 [Worker-47: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:34:33,588 [Worker-47: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 11:35:09,087 [Worker-46: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:35:09,089 [Worker-46: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:35:09,094 [Worker-46: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 11:35:37,295 [Worker-47: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:35:37,297 [Worker-47: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:35:37,301 [Worker-47: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 11:35:55,563 [Worker-39: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:35:55,565 [Worker-39: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:35:55,568 [Worker-39: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 11:42:36,031 [Worker-46: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:42:36,033 [Worker-46: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:42:36,038 [Worker-46: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 11:48:21,782 [Worker-51: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 11:48:21,792 [Worker-51: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:48:21,797 [Worker-51: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 11:48:40,138 [Worker-51: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 11:48:40,148 [Worker-51: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:48:40,154 [Worker-51: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 11:48:45,368 [Worker-45: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 11:48:45,378 [Worker-45: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:48:45,383 [Worker-45: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 11:58:56,086 [Worker-56: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:58:56,088 [Worker-56: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:58:56,091 [Worker-56: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 11:59:18,045 [Worker-46: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:59:18,047 [Worker-46: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 11:59:18,050 [Worker-46: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 12:15:49,526 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-03 13:42:20,136 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-03 13:43:01,448 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 13:43:01,499 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 13:43:01,509 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 13:46:45,060 [Worker-2: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 13:46:45,062 [Worker-2: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 13:46:45,070 [Worker-2: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 13:51:42,591 [Worker-10: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 13:51:42,594 [Worker-10: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 13:51:42,601 [Worker-10: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 13:53:51,474 [Worker-11: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 13:53:51,476 [Worker-11: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 13:53:51,483 [Worker-11: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 13:54:08,664 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 13:54:08,665 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 13:54:08,667 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 14:01:19,073 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 14:01:19,075 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 14:01:19,078 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 14:01:22,456 [Worker-22: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 14:01:22,457 [Worker-22: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 14:01:22,463 [Worker-22: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 14:04:20,603 [Worker-20: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 14:04:20,606 [Worker-20: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 14:04:20,613 [Worker-20: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 14:07:44,677 [Worker-26: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 14:07:44,678 [Worker-26: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 14:07:44,684 [Worker-26: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 14:17:59,217 [Worker-21: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 14:17:59,219 [Worker-21: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 14:17:59,223 [Worker-21: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 14:26:24,491 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 14:26:24,495 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 14:26:24,501 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 14:27:24,510 [Worker-34: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 14:27:24,510 [Worker-34: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 14:27:24,520 [Worker-34: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 14:47:46,533 [Worker-26: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 14:47:46,536 [Worker-26: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 14:47:46,543 [Worker-26: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 14:48:22,690 [Worker-33: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 14:48:22,693 [Worker-33: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 14:48:22,700 [Worker-33: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 14:53:44,250 [Worker-39: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 14:53:44,253 [Worker-39: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 14:53:44,259 [Worker-39: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 14:55:20,936 [Worker-43: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 14:55:20,938 [Worker-43: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 14:55:20,945 [Worker-43: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 14:56:29,774 [Worker-43: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 14:56:29,779 [Worker-43: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 14:56:29,787 [Worker-43: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:11:22,439 [Worker-53: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:11:22,441 [Worker-53: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 15:11:22,449 [Worker-53: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:12:48,583 [Worker-45: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:12:48,586 [Worker-45: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:12:48,591 [Worker-45: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:14:01,102 [Worker-54: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:14:01,104 [Worker-54: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:14:01,108 [Worker-54: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:15:08,014 [Worker-52: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:15:08,017 [Worker-52: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:15:08,022 [Worker-52: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:19:58,025 [Worker-58: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:19:58,027 [Worker-58: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:19:58,031 [Worker-58: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:20:38,407 [Worker-53: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:20:38,409 [Worker-53: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:20:38,413 [Worker-53: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:23:34,713 [Worker-54: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:23:34,716 [Worker-54: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:23:34,720 [Worker-54: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:25:29,097 [Worker-53: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:25:29,100 [Worker-53: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 15:25:29,107 [Worker-53: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:26:30,592 [Worker-58: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:26:30,594 [Worker-58: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 15:26:30,600 [Worker-58: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:27:13,137 [Worker-61: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:27:13,139 [Worker-61: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 15:27:13,143 [Worker-61: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:27:29,914 [Worker-61: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:27:29,916 [Worker-61: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 15:27:29,921 [Worker-61: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:27:50,316 [Worker-59: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:27:50,317 [Worker-59: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 15:27:50,322 [Worker-59: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:34:04,174 [Worker-53: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:34:04,176 [Worker-53: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 15:34:04,181 [Worker-53: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:39:52,575 [Worker-59: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:39:52,577 [Worker-59: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 15:39:52,585 [Worker-59: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:41:27,009 [Worker-58: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:41:27,010 [Worker-58: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 15:41:27,018 [Worker-58: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:44:02,721 [Worker-69: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:44:02,723 [Worker-69: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 15:44:02,732 [Worker-69: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:44:37,467 [Worker-66: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:44:37,469 [Worker-66: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 15:44:37,474 [Worker-66: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:45:04,553 [Worker-72: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:45:04,554 [Worker-72: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 15:45:04,561 [Worker-72: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:46:55,788 [Worker-69: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:46:55,790 [Worker-69: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 15:46:55,795 [Worker-69: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:48:59,987 [Worker-72: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:48:59,988 [Worker-72: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 15:48:59,993 [Worker-72: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:49:33,860 [Worker-68: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:49:33,861 [Worker-68: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 15:49:33,867 [Worker-68: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:51:22,152 [Worker-79: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:51:22,154 [Worker-79: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 15:51:22,159 [Worker-79: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:51:59,806 [Worker-81: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:51:59,807 [Worker-81: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 15:51:59,812 [Worker-81: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:56:39,537 [Worker-80: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:56:39,538 [Worker-80: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 15:56:39,545 [Worker-80: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 15:58:37,527 [Worker-82: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 15:58:37,529 [Worker-82: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 15:58:37,534 [Worker-82: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:00:45,906 [Worker-86: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:00:45,908 [Worker-86: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 16:00:45,913 [Worker-86: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:02:53,839 [Worker-91: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:02:53,841 [Worker-91: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 16:02:53,848 [Worker-91: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:03:18,721 [Worker-83: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:03:18,723 [Worker-83: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 16:03:18,729 [Worker-83: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:03:51,732 [Worker-89: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:03:51,733 [Worker-89: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 16:03:51,738 [Worker-89: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:04:31,813 [Worker-93: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:04:31,815 [Worker-93: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 16:04:31,820 [Worker-93: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:14:11,447 [Worker-92: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:14:11,448 [Worker-92: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 16:14:11,453 [Worker-92: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:16:40,552 [Worker-92: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:16:40,554 [Worker-92: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 16:16:40,562 [Worker-92: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:17:15,323 [Worker-98: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:17:15,325 [Worker-98: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 16:17:15,330 [Worker-98: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:18:17,558 [Worker-92: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:18:17,560 [Worker-92: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:18:17,565 [Worker-92: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:19:39,237 [Worker-94: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:19:39,239 [Worker-94: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 16:19:39,244 [Worker-94: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:20:05,454 [Worker-96: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:20:05,455 [Worker-96: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 16:20:05,460 [Worker-96: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:21:31,123 [Worker-100: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:21:31,125 [Worker-100: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 16:21:31,133 [Worker-100: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:22:02,520 [Worker-96: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:22:02,521 [Worker-96: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 16:22:02,528 [Worker-96: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:26:16,361 [Worker-81: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:26:16,362 [Worker-81: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 16:26:16,368 [Worker-81: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:27:32,939 [Worker-94: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:27:32,941 [Worker-94: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 16:27:32,949 [Worker-94: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:28:34,973 [Worker-96: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:28:34,975 [Worker-96: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:28:34,979 [Worker-96: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:29:41,550 [Worker-81: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:29:41,552 [Worker-81: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 16:29:41,561 [Worker-81: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:30:12,224 [Worker-96: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:30:12,225 [Worker-96: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 16:30:12,233 [Worker-96: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:30:37,331 [Worker-104: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:30:37,334 [Worker-104: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 16:30:37,339 [Worker-104: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:35:06,263 [Worker-81: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:35:06,266 [Worker-81: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 16:35:06,273 [Worker-81: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:46:47,566 [Worker-103: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:46:47,568 [Worker-103: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 16:46:47,579 [Worker-103: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:52:51,188 [Worker-105: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:52:51,190 [Worker-105: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:52:51,196 [Worker-105: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:57:41,500 [Worker-117: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:57:41,502 [Worker-117: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 16:57:41,508 [Worker-117: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 16:58:13,467 [Worker-118: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 16:58:13,469 [Worker-118: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 16:58:13,473 [Worker-118: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:03:39,569 [Worker-117: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:03:39,572 [Worker-117: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:03:39,576 [Worker-117: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:05:04,650 [Worker-122: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:05:04,652 [Worker-122: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 17:05:04,660 [Worker-122: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:08:00,269 [Worker-126: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:08:00,271 [Worker-126: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:08:00,277 [Worker-126: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:08:43,250 [Worker-128: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:08:43,253 [Worker-128: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:08:43,260 [Worker-128: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:11:47,299 [Worker-129: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:11:47,301 [Worker-129: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 17:11:47,314 [Worker-129: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:13:56,320 [Worker-129: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:13:56,322 [Worker-129: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 17:13:56,331 [Worker-129: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:17:23,175 [Worker-131: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:17:23,177 [Worker-131: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 17:17:23,184 [Worker-131: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:18:14,083 [Worker-135: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:18:14,085 [Worker-135: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 17:18:14,090 [Worker-135: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:18:31,398 [Worker-136: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:18:31,400 [Worker-136: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:18:31,404 [Worker-136: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:19:17,938 [Worker-129: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:19:17,939 [Worker-129: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 17:19:17,944 [Worker-129: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:22:16,261 [Worker-134: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:22:16,266 [Worker-134: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 17:22:16,274 [Worker-134: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:23:29,619 [Worker-138: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:23:29,623 [Worker-138: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 17:23:29,630 [Worker-138: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:23:57,269 [Worker-134: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:23:57,271 [Worker-134: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:23:57,275 [Worker-134: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:24:41,069 [Worker-141: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:24:41,071 [Worker-141: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:24:41,074 [Worker-141: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:25:16,923 [Worker-134: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:25:16,926 [Worker-134: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 17:25:16,932 [Worker-134: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:26:04,306 [Worker-138: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:26:04,307 [Worker-138: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 17:26:04,315 [Worker-138: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:27:17,595 [Worker-140: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:27:17,596 [Worker-140: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 17:27:17,601 [Worker-140: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:28:12,264 [Worker-140: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:28:12,266 [Worker-140: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 17:28:12,271 [Worker-140: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:33:44,623 [Worker-142: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:33:44,625 [Worker-142: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 17:33:44,632 [Worker-142: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:34:12,706 [Worker-142: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:34:12,709 [Worker-142: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:34:12,715 [Worker-142: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:37:11,294 [Worker-129: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:37:11,296 [Worker-129: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:37:11,299 [Worker-129: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:37:36,969 [Worker-145: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:37:36,972 [Worker-145: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:37:36,975 [Worker-145: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:40:01,686 [Worker-145: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:40:01,689 [Worker-145: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:40:01,694 [Worker-145: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:46:32,906 [Worker-147: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:46:32,908 [Worker-147: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:46:32,913 [Worker-147: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 17:49:11,721 [Worker-156: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:49:11,722 [Worker-156: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 17:49:11,725 [Worker-156: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:04:30,974 [Worker-152: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:04:30,975 [Worker-152: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:04:30,979 [Worker-152: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:17:14,667 [Worker-155: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:17:14,668 [Worker-155: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:17:14,671 [Worker-155: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:21:08,264 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:21:08,265 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 18:21:08,289 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:21:45,820 [Worker-160: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:21:45,823 [Worker-160: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:21:45,826 [Worker-160: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:22:15,702 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:22:15,703 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:22:15,706 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:22:58,665 [Worker-160: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:22:58,667 [Worker-160: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 18:22:58,719 [Worker-160: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:23:20,457 [Worker-157: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:23:20,460 [Worker-157: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:23:20,464 [Worker-157: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:26:59,422 [Worker-164: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:26:59,425 [Worker-164: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:26:59,430 [Worker-164: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:28:18,849 [Worker-166: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:28:18,850 [Worker-166: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 18:28:18,854 [Worker-166: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:28:35,835 [Worker-168: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:28:35,839 [Worker-168: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:28:35,843 [Worker-168: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:33:51,205 [Worker-167: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:33:51,208 [Worker-167: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:33:51,214 [Worker-167: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:38:01,474 [Worker-164: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:38:01,477 [Worker-164: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:38:01,480 [Worker-164: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:38:50,729 [Worker-175: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:38:50,733 [Worker-175: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:38:50,736 [Worker-175: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:39:12,945 [Worker-174: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:39:12,947 [Worker-174: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:39:12,950 [Worker-174: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:39:29,410 [Worker-173: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:39:29,414 [Worker-173: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:39:29,417 [Worker-173: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:39:45,353 [Worker-166: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:39:45,356 [Worker-166: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:39:45,360 [Worker-166: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:40:58,442 [Worker-176: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:40:58,445 [Worker-176: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:40:58,448 [Worker-176: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:42:14,590 [Worker-181: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:42:14,593 [Worker-181: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:42:14,597 [Worker-181: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:49:29,727 [Worker-172: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:49:29,729 [Worker-172: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:49:29,733 [Worker-172: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:50:15,219 [Worker-172: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:50:15,221 [Worker-172: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:50:15,224 [Worker-172: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:56:10,771 [Worker-189: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:56:10,773 [Worker-189: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:56:10,777 [Worker-189: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:56:46,203 [Worker-178: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:56:46,208 [Worker-178: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:56:46,211 [Worker-178: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:57:23,852 [Worker-184: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:57:23,856 [Worker-184: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:57:23,860 [Worker-184: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:57:46,570 [Worker-178: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:57:46,572 [Worker-178: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:57:46,575 [Worker-178: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 18:58:03,332 [Worker-188: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:58:03,334 [Worker-188: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 18:58:03,351 [Worker-188: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:00:11,192 [Worker-191: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:00:11,194 [Worker-191: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:00:11,197 [Worker-191: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:01:11,968 [Worker-192: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:01:11,974 [Worker-192: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:01:11,981 [Worker-192: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:01:27,400 [Worker-184: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:01:27,402 [Worker-184: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:01:27,405 [Worker-184: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:04:34,725 [Worker-184: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:04:34,727 [Worker-184: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:04:34,729 [Worker-184: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:05:54,449 [Worker-184: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:05:54,452 [Worker-184: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:05:54,456 [Worker-184: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:06:26,353 [Worker-199: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:06:26,356 [Worker-199: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:06:26,360 [Worker-199: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:07:56,947 [Worker-193: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:07:56,950 [Worker-193: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:07:56,953 [Worker-193: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:09:09,502 [Worker-200: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:09:09,505 [Worker-200: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:09:09,509 [Worker-200: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:09:39,440 [Worker-204: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:09:39,442 [Worker-204: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:09:39,446 [Worker-204: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:09:48,713 [Worker-204: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:09:48,716 [Worker-204: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:09:48,722 [Worker-204: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:10:42,205 [Worker-203: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:10:42,208 [Worker-203: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:10:42,211 [Worker-203: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:12:19,839 [Worker-204: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:12:19,841 [Worker-204: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:12:19,844 [Worker-204: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:13:51,262 [Worker-200: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:13:51,265 [Worker-200: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:13:51,270 [Worker-200: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:14:14,338 [Worker-200: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:14:14,340 [Worker-200: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:14:14,343 [Worker-200: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:14:34,274 [Worker-196: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:14:34,277 [Worker-196: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:14:34,281 [Worker-196: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:14:50,224 [Worker-208: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:14:50,227 [Worker-208: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:14:50,231 [Worker-208: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:15:10,887 [Worker-206: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:15:10,890 [Worker-206: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:15:10,893 [Worker-206: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:15:28,918 [Worker-206: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:15:28,920 [Worker-206: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:15:28,923 [Worker-206: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:15:50,886 [Worker-200: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:15:50,888 [Worker-200: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:15:50,894 [Worker-200: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:16:28,976 [Worker-196: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:16:28,978 [Worker-196: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:16:28,982 [Worker-196: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:16:55,770 [Worker-207: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:16:55,772 [Worker-207: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:16:55,775 [Worker-207: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:25:26,138 [Worker-212: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:25:26,140 [Worker-212: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:25:26,144 [Worker-212: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:29:32,685 [Worker-215: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:29:32,687 [Worker-215: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:29:32,692 [Worker-215: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:29:42,988 [Worker-215: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:29:42,990 [Worker-215: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:29:42,993 [Worker-215: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:31:20,937 [Worker-212: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:31:20,941 [Worker-212: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-03 19:31:20,944 [Worker-212: Launching OTT - OttApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Desktop\ott\OTT\src\test\resources
+2024-03-03 19:53:09,374 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-03 19:53:37,633 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-03 19:53:37,658 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-03-03 19:53:37,712 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\User\Documents\GitHub\MOVIOT\ott\OTT\src\test\resources

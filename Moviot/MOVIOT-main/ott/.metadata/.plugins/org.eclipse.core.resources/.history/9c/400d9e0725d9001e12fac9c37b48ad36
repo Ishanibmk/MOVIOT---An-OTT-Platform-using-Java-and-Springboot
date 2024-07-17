@@ -1,0 +1,55 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Category Page</title>
+<style>
+    body {
+        background-color: #f0f0f0; /* Set background color of the page */
+        margin: 0;
+        padding: 0;
+    }
+    .category-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .category-box {
+        width: calc(33.33% - 20px); /* Adjust width for three boxes in a row */
+        padding-top: calc(16%); /* Padding for 3:4 aspect ratio */
+        position: relative;
+        overflow: hidden;
+        border: 1px solid #ccc;
+        margin-bottom: 20px;
+    }
+    .category-box h2 {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        margin: 0;
+    }
+.category-box:hover {
+    opacity: 0.3; /* Set opacity to 50% on hover */
+}
+</style>
+</head>
+<body>
+    <h1>Movie Categories</h1>
+    <div class="category-container">
+  <div class="category-box" style="background-image: url('https://wallpapers.com/images/hd/anime-fight-eren-and-titan-7s8g2zy7xxdmfziy.jpg'); background-position: center; background-size: cover;" onclick="window.location.href='horror.html';">
+
+            <h2>Horror</h2>
+        </div>
+        <div class="category-box" style="background-image: url('https://wallpapers.com/images/hd/anime-girl-izuku-midoriya-vejojrs7ijbmd.jpg');" onclick="window.location.href='adventure.html';">
+            <h2>Adventure</h2>
+        </div>
+        <div class="category-box" style="background-image: url('https://wallpapers.com/images/hd/anime-trees-son-goku-mountain-ki0r7fwfwzefltpi.jpg');" onclick="window.location.href='action.html';">
+            <h2>Action</h2>
+        </div>
+        <!-- Add more category boxes here with similar structure -->
+    </div>
+</body>
+</html>

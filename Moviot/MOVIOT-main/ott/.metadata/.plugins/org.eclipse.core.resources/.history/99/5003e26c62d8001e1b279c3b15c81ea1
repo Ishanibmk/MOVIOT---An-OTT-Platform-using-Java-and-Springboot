@@ -1,0 +1,45 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Category Page</title>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background: linear-gradient(to bottom,hsl(0, 100%, 10%), black 90%); /* Red to black gradient */
+    }
+    .category-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .category-box {
+        width: 100%; /* Take 100% of the width */
+        padding: 20px;
+        margin-bottom: 20px;
+        border: 1px solid #ccc;
+        text-align: center;
+        cursor: pointer;
+        background-color: white; /* White background for contrast */
+    }
+    .category-box:hover {
+        background-color: #f0f0f0;
+    }
+</style>
+</head>
+<body>
+    <h1>Movie Categories</h1>
+<div class="category-container">
+    <div class="category-box" onclick="window.location.href='action.html';">
+        <h2>Action</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='adventure.html';">
+        <h2>Adventure</h2>
+    </div>
+    <!-- Add more category boxes here with similar structure -->
+</div>
+</body>
+</html>

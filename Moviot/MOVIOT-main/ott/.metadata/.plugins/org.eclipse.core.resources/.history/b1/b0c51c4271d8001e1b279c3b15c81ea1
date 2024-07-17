@@ -1,0 +1,96 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1"%>
+<jsp:include page="index_header.jsp" />
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Home</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"> <!-- Font Awesome for play icon -->
+<style>
+  body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, hsl(270, 100%, 10%), black 90%);; /* Vertical gradient */
+    font-family: Nunito, Nunito;
+    color: white;
+  }
+  main {
+    flex: 1;
+    padding: 20px;
+    padding-top: 100px; /* Add padding from the top */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  .movie {
+    width: 200px;
+    cursor: pointer;
+  }
+  .movie img {
+    width: 100%;
+    border-radius: 5px;
+    transition: transform 0.3s;
+  }
+  .movie:hover img {
+    transform: scale(1.1);
+  }
+  /* CSS class to hide the header */
+  .hidden-header {
+    display: none;
+  }
+</style>
+<script>
+  // JavaScript code example
+  document.addEventListener("DOMContentLoaded", function() {
+    // Get the header element
+    var header = document.getElementById("main-header");
+    // Add a class to hide the header when scrolling down
+    window.addEventListener("scroll", function() {
+      if (window.scrollY > 100) {
+        header.classList.add("hidden-header");
+      } else {
+        header.classList.remove("hidden-header");
+      }
+    });
+  });
+</script>
+</head>
+<body>
+<header id="main-header">
+  <!-- Your header content goes here -->
+</header>
+<main>
+ <div class="movie">
+    <img src="https://moviesnation.lat/wp-content/uploads/2024/02/Download-Avatar-The-Last-Airbender-2024-Hindi-Dubbed-English-Dual-Audio-480p-720p-HEVC-1080p-Moviesnation.jpg" alt="Movie 2">
+</div>
+<div class="movie">
+    <img src="https://i.pinimg.com/originals/90/fd/6c/90fd6c20213637e50d227f50b2bea2ef.jpg" alt="Movie 2">
+</div>
+<div class="movie">
+    <img src="https://moviesnation.lat/wp-content/uploads/2023/10/Download-Saw-X-2023-English-Audio-with-Subtittle-480p-720p-HEVC-1080p-Moviesnation.jpg" alt="Movie 2">
+</div>
+<div class="movie">
+    <img src="https://moviesnation.lat/wp-content/uploads/2024/02/Download-Logan-2024-Hindi-Dubbed-English-Dual-Audio-480p-720p-HEVC-1080p-Moviesnation.jpg" alt="Movie 2">
+</div>
+<div class="movie">
+    <img src="https://moviesnation.lat/wp-content/uploads/2024/02/Download-I-Frankenstein-2024-Hindi-Dubbed-English-Dual-Audio-480p-720p-HEVC-1080p-Moviesnation.jpg" alt="Movie 2">
+</div>
+<div class="movie">
+    <img src="https://moviesnation.lat/wp-content/uploads/2022/03/Download-Halo-Season-1-Hindi-Dubbed-English-Dual-Audio-All-Episode-480p-720p-moviesnation.cc.jpg" alt="Movie 2">
+</div>
+<!-- Repeat this block 17 more times -->
+
+<div class="movie">
+    <img src="https://moviesnation.lat/wp-content/uploads/2024/02/Download-Mr.-Mrs.-Smith-Season-1-Hindi-Dubbed-English-Dual-Audio-480p-720p-HEVC-1080p-Moviesnation.jpg" alt="Movie 2">
+</div>
+<div class="movie">
+    <img src="https://moviesnation.lat/wp-content/uploads/2024/01/Download-Aquaman-and-the-Lost-Kingdom-2023-English-Audio-with-Subtittle-480p-720p-HEVC-1080p-Moviesnation.jpg" alt="Movie 2">
+</div>
+</main>
+<jsp:include page="index_footer.jsp" />
+</body>
+</html>

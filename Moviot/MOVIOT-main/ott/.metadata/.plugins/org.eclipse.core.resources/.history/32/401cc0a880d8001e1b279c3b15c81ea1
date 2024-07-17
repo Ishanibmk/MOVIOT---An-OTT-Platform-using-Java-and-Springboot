@@ -1,0 +1,78 @@
+<jsp:include page="index_header.jsp" />
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Home</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"> <!-- Font Awesome for play icon -->
+<style>
+  body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, hsl(270, 100%, 10%), black 90%); /* Vertical gradient */
+    font-family: Nunito, sans-serif;
+    color: white;
+  }
+  main {
+    flex: 1;
+    padding: 20px;
+    padding-top: 100px; /* Add padding from the top */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  .movie {
+    width: 200px;
+    cursor: pointer;
+  }
+  .movie img {
+    width: 100%;
+    border-radius: 5px;
+    transition: transform 0.3s;
+  }
+  .movie p {
+    display: none;
+  }
+</style>
+</head>
+<body>
+<main>
+  <!-- Movie 1 -->
+<div class="movie" onclick="toggleMovieInfo(this)">
+    <img src="https://moviesnation.lat/wp-content/uploads/2024/02/Download-Avatar-The-Last-Airbender-2024-Hindi-Dubbed-English-Dual-Audio-480p-720p-HEVC-1080p-Moviesnation.jpg" alt="Avatar: The Last Airbender">
+    <p>This is a great movie about mastering the elements.</p>
+</div>
+<div class="movie" onclick="toggleMovieInfo(this)">
+    <img src="https://i.pinimg.com/originals/90/fd/6c/90fd6c20213637e50d227f50b2bea2ef.jpg" alt="Movie 2">
+    <p>This is an example of another movie.</p>
+</div>
+<!-- Add more movie divs as needed -->
+</main>
+
+<script>
+function toggleMovieInfo(movie) {
+    const img = movie.querySelector('img');
+    const paragraph = movie.querySelector('p');
+    
+    // Toggle aspect ratio
+    if (img.style.height === '56.25%') {
+        img.style.height = 'auto';
+    } else {
+        img.style.height = '56.25%'; // 16:9 aspect ratio
+    }
+    
+    // Toggle paragraph visibility
+    if (paragraph.style.display === 'block') {
+        paragraph.style.display = 'none';
+    } else {
+        paragraph.style.display = 'block';
+    }
+}
+</script>
+
+</body>
+</html>

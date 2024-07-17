@@ -1,0 +1,86 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1"%>
+<jsp:include page="index_header.jsp" />
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Home</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"> <!-- Font Awesome for play icon -->
+<style>
+  body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, hsl(270, 100%, 10%), black 90%);
+    font-family: Nunito, sans-serif;
+    color: white;
+  }
+  main {
+    flex: 1;
+    padding: 20px;
+    padding-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  .movie {
+    width: 200px;
+    cursor: pointer;
+    position: relative; /* Added position relative */
+  }
+  .movie img {
+    width: 100%;
+    border-radius: 5px;
+    transition: transform 0.3s;
+  }
+  .movie:hover img {
+    transform:  scaleX(1.2); /* Increased scale on hover */
+  }
+  .movie .movie-title {
+    position: absolute;
+    bottom: 10px; /* Adjust as needed */
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+    padding: 5px;
+    text-align: center;
+    font-size: 14px;
+    visibility: hidden; /* Initially hidden */
+    opacity: 0;
+    transition: visibility 0s, opacity 0.3s linear;
+  }
+  .movie:hover .movie-title {
+    visibility: visible; /* Show on hover */
+    opacity: 1;
+  }
+</style>
+</head>
+<body>
+<main>
+  <!-- Movie 1 -->
+<div class="movie">
+    <img src="https://moviesnation.lat/wp-content/uploads/2024/02/Download-Avatar-The-Last-Airbender-2024-Hindi-Dubbed-English-Dual-Audio-480p-720p-HEVC-1080p-Moviesnation.jpg" alt="Movie 2">
+</div>
+<div class="movie">
+    <img src="https://i.pinimg.com/originals/90/fd/6c/90fd6c20213637e50d227f50b2bea2ef.jpg" alt="Movie 2">
+</div>
+<div class="movie">
+    <img src="https://moviesnation.lat/wp-content/uploads/2023/10/Download-Saw-X-2023-English-Audio-with-Subtittle-480p-720p-HEVC-1080p-Moviesnation.jpg" alt="Movie 2">
+</div>
+<div class="movie">
+    <img src="https://moviesnation.lat/wp-content/uploads/2024/02/Download-Logan-2024-Hindi-Dubbed-English-Dual-Audio-480p-720p-HEVC-1080p-Moviesnation.jpg" alt="Movie 2">
+</div>
+<div class="movie">
+    <img src="https://moviesnation.lat/wp-content/uploads/2024/02/Download-I-Frankenstein-2024-Hindi-Dubbed-English-Dual-Audio-480p-720p-HEVC-1080p-Moviesnation.jpg" alt="Movie 2">
+</div>
+
+
+</main>
+<footer>
+  <jsp:include page="index_footer.jsp" />
+</footer>
+</body>
+</html>

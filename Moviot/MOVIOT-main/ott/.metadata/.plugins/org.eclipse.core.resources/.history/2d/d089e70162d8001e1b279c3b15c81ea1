@@ -1,0 +1,104 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Category Page</title>
+<style>
+    .category-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .category-box {
+        width: 100%; /* Take 100% of the width */
+        padding: 20px;
+        margin-bottom: 20px;
+        border: 1px solid #ccc;
+        text-align: center;
+        cursor: pointer;
+    }
+    .category-box:hover {
+        background-color: #f0f0f0;
+    }
+</style>
+</head>
+<body>
+    <h1>Movie Categories</h1>
+<div class="category-container">
+    <div class="category-box" onclick="window.location.href='action.html';">
+        <h2>Action</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='adventure.html';">
+        <h2>Adventure</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='animation.html';">
+        <h2>Animation</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='biography.html';">
+        <h2>Biography</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='comedy.html';">
+        <h2>Comedy</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='crime.html';">
+        <h2>Crime</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='documentary.html';">
+        <h2>Documentary</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='drama.html';">
+        <h2>Drama</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='family.html';">
+        <h2>Family</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='fantasy.html';">
+        <h2>Fantasy</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='film-noir.html';">
+        <h2>Film Noir</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='history.html';">
+        <h2>History</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='horror.html';">
+        <h2>Horror</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='music.html';">
+        <h2>Music</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='musical.html';">
+        <h2>Musical</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='mystery.html';">
+        <h2>Mystery</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='romance.html';">
+        <h2>Romance</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='sci-fi.html';">
+        <h2>Sci-Fi (Science Fiction)</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='sport.html';">
+        <h2>Sport</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='superhero.html';">
+        <h2>Superhero</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='thriller.html';">
+        <h2>Thriller</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='war.html';">
+        <h2>War</h2>
+    </div>
+    <div class="category-box" onclick="window.location.href='western.html';">
+        <h2>Western</h2>
+    </div>
+</div>
+
+        <!-- Add more category boxes here with similar structure -->
+    </div>
+</body>
+</html>
